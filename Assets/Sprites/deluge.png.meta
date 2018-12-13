@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: bfe8bc3a508852a45b814cbd5441150e
+timeCreated: 1470957090
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deluge_0
+    21300002: deluge_1
+    21300004: deluge_2
+    21300006: deluge_3
+    21300008: deluge_4
+    21300010: deluge_5
+    21300012: deluge_6
+    21300014: deluge_7
+    21300016: deluge_8
+    21300018: deluge_9
+    21300020: deluge_10
+    21300022: deluge_11
+    21300024: deluge_12
+    21300026: deluge_13
+    21300028: deluge_14
+    21300030: deluge_15
+    21300032: deluge_16
+    21300034: deluge_17
+    21300036: deluge_18
+    21300038: deluge_19
+    21300040: deluge_20
+    21300042: deluge_21
+    21300044: deluge_22
+    21300046: deluge_23
+    21300048: deluge_24
+    21300050: deluge_25
+    21300052: deluge_26
+    21300054: deluge_27
+    21300056: deluge_28
+    21300058: deluge_29
+    21300060: deluge_30
+    21300062: deluge_31
+    21300064: deluge_32
+    21300066: deluge_33
+    21300068: deluge_34
+    21300070: deluge_35
+    21300072: deluge_36
+    21300074: deluge_37
+    21300076: deluge_38
+    21300078: deluge_39
+    21300080: deluge_40
+    21300082: deluge_41
+    21300084: deluge_42
+    21300086: deluge_43
+    21300088: deluge_44
+    21300090: deluge_45
+    21300092: deluge_46
+    21300094: deluge_47
+    21300096: deluge_48
+    21300098: deluge_49
+    21300100: deluge_50
+    21300102: deluge_51
+    21300104: deluge_52
+    21300106: deluge_53
+    21300108: deluge_54
+    21300110: deluge_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deluge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: deluge_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 8}
+        - {x: -9, y: 8}
+        - {x: -15, y: -1}
+        - {x: -15, y: -12}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 2}
+    - name: deluge_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 5}
+        - {x: -13, y: 4}
+        - {x: -13, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: -3}
+        - {x: 4, y: 5}
+    - name: deluge_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 4}
+        - {x: 5, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 14, y: -5}
+    - name: deluge_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -9}
+        - {x: 14, y: 2}
+        - {x: 2, y: 16}
+    - name: deluge_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -2, y: 16}
+        - {x: -8, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 14, y: -10}
+        - {x: 14, y: 1}
+    - name: deluge_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -9}
+        - {x: 14, y: 4}
+        - {x: 4, y: 16}
+    - name: deluge_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: deluge_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 13, y: -3}
+        - {x: 13, y: 16}
+    - name: deluge_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: 3, y: 15}
+        - {x: 4, y: 12}
+        - {x: 2, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 12, y: 16}
+    - name: deluge_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -6}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 15, y: -4}
+        - {x: 15, y: 10}
+    - name: deluge_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 11}
+        - {x: 2, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -6}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 15, y: 7}
+    - name: deluge_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -11, y: 15}
+        - {x: -14, y: 9}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 9, y: 9}
+    - name: deluge_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 3}
+        - {x: 9, y: 8}
+    - name: deluge_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 9}
+        - {x: 5, y: 15}
+    - name: deluge_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -11}
+        - {x: 12, y: -8}
+        - {x: 12, y: 4}
+    - name: deluge_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -1}
+        - {x: 7, y: 9}
+        - {x: 2, y: 16}
+        - {x: -8, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 12, y: -5}
+    - name: deluge_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -10, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 9}
+        - {x: 5, y: 14}
+    - name: deluge_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 9}
+        - {x: 2, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -6}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 12, y: 3}
+    - name: deluge_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 10}
+        - {x: 3, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 12, y: 3}
+    - name: deluge_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: -10, y: 15}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 10}
+    - name: deluge_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -10, y: 14}
+        - {x: -14, y: 6}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 9}
+    - name: deluge_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+        - {x: -8, y: 16}
+        - {x: -14, y: -11}
+    - name: deluge_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 13, y: -7}
+        - {x: 13, y: 16}
+    - name: deluge_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: -12}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -11}
+        - {x: 4, y: 16}
+    - name: deluge_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -7, y: 16}
+        - {x: -9, y: 15}
+        - {x: -14, y: -10}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -6}
+        - {x: 2, y: 15}
+    - name: deluge_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 0}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -11}
+        - {x: 2, y: 16}
+    - name: deluge_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -8, y: 16}
+        - {x: -9, y: 15}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: -6}
+    - name: deluge_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -6, y: 13}
+        - {x: -11, y: 5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 0}
+    - name: deluge_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 12}
+        - {x: -6, y: 12}
+        - {x: -11, y: 4}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 9, y: -12}
+        - {x: 10, y: 8}
+    - name: deluge_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
